@@ -2,11 +2,14 @@
   "name": "mcq-practice-exam",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "client"
+  ],
   "scripts": {
     "dev": "concurrently -k \"npm run dev:server\" \"npm run dev:client\"",
     "dev:server": "npm --prefix server run dev",
     "dev:client": "npm --prefix client run dev",
-    "build": "npm --prefix client run build",
+    "build": "npm run build --workspace=client",
     "start": "npm --prefix server start"
   },
   "devDependencies": {
