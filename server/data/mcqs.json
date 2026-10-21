@@ -1,0 +1,4890 @@
+[
+  {
+    "id": "sepm-w26-001",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What software development methodology emphasizes iterative development, flexible response to change, and continuous collaboration over rigid planning?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Waterfall"
+      },
+      {
+        "label": "B",
+        "text": "Agile"
+      },
+      {
+        "label": "C",
+        "text": "Spiral"
+      },
+      {
+        "label": "D",
+        "text": "V-Model"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 1,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-002",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Scrum, which role is strictly responsible for maintaining and prioritizing the Product Backlog?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scrum Master"
+      },
+      {
+        "label": "B",
+        "text": "Software Developer"
+      },
+      {
+        "label": "C",
+        "text": "Product Owner"
+      },
+      {
+        "label": "D",
+        "text": "Project Sponsor"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 2,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-003",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which diagram in UML is primarily used to represent the dynamic step-by-step flow of control between system components?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Class Diagram"
+      },
+      {
+        "label": "B",
+        "text": "Use Case Diagram"
+      },
+      {
+        "label": "C",
+        "text": "Sequence Diagram"
+      },
+      {
+        "label": "D",
+        "text": "Component Diagram"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 3,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-004",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Project Management, what does the acronym CPM stand for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Critical Path Method"
+      },
+      {
+        "label": "B",
+        "text": "Continuous Project Management"
+      },
+      {
+        "label": "C",
+        "text": "Core Planning Metric"
+      },
+      {
+        "label": "D",
+        "text": "Central Process Control"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 4,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-005",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What type of testing ensures that recent code changes have not negatively affected existing software features?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Unit Testing"
+      },
+      {
+        "label": "B",
+        "text": "Acceptance Testing"
+      },
+      {
+        "label": "C",
+        "text": "Regression Testing"
+      },
+      {
+        "label": "D",
+        "text": "Stress Testing"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 5,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-006",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which software maintenance type focuses on updating a system to work in a changed or changing environment (e.g., OS upgrade)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Corrective Maintenance"
+      },
+      {
+        "label": "B",
+        "text": "Adaptive Maintenance"
+      },
+      {
+        "label": "C",
+        "text": "Perfective Maintenance"
+      },
+      {
+        "label": "D",
+        "text": "Preventive Maintenance"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 6,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-007",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What cost estimation model uses Function Points or Source Lines of Code (SLOC) to estimate project effort and schedule?",
+    "options": [
+      {
+        "label": "A",
+        "text": "COCOMO"
+      },
+      {
+        "label": "B",
+        "text": "PERT"
+      },
+      {
+        "label": "C",
+        "text": "EVM"
+      },
+      {
+        "label": "D",
+        "text": "Kanban"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 7,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-008",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What is the primary indicator of the \"Critical Path\" in a project network diagram?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Path with the highest total cost"
+      },
+      {
+        "label": "B",
+        "text": "Path with zero total float (slack time)"
+      },
+      {
+        "label": "C",
+        "text": "Path with the fewest total tasks"
+      },
+      {
+        "label": "D",
+        "text": "Path assigned to key senior resources"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 8,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-009",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Object-Oriented Design, which principle states that high-level modules should not depend on low-level modules, but both should depend on abstractions?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Single Responsibility Principle"
+      },
+      {
+        "label": "B",
+        "text": "Open-Closed Principle"
+      },
+      {
+        "label": "C",
+        "text": "Dependency Inversion Principle"
+      },
+      {
+        "label": "D",
+        "text": "Interface Segregation Principle"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 9,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-010",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Earned Value Management (EVM), if the Schedule Performance Index (SPI) is less than 1.0, what does it signify?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Project is under budget"
+      },
+      {
+        "label": "B",
+        "text": "Project is behind schedule"
+      },
+      {
+        "label": "C",
+        "text": "Project is ahead of schedule"
+      },
+      {
+        "label": "D",
+        "text": "Project is over budget"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 10,
+    "sourceSection": "Group A",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-011",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which software process model combines iterative development with systematic risk analysis at each stage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Waterfall Model"
+      },
+      {
+        "label": "B",
+        "text": "Spiral Model"
+      },
+      {
+        "label": "C",
+        "text": "Big Bang Model"
+      },
+      {
+        "label": "D",
+        "text": "Rapid Application Development"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 11,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-012",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What type of requirement specifies system performance, security standards, and reliability constraint rather than specific system behaviors?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Functional Requirement"
+      },
+      {
+        "label": "B",
+        "text": "Non-Functional Requirement"
+      },
+      {
+        "label": "C",
+        "text": "Domain Requirement"
+      },
+      {
+        "label": "D",
+        "text": "Business Requirement"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 12,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-013",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In software engineering, what term describes the degree to which a system or component is modular and its internal elements belong together?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Coupling"
+      },
+      {
+        "label": "B",
+        "text": "Cohesion"
+      },
+      {
+        "label": "C",
+        "text": "Encapsulation"
+      },
+      {
+        "label": "D",
+        "text": "Polymorphism"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 13,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-014",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which software design principle advocates for minimizing dependencies between different modules?",
+    "options": [
+      {
+        "label": "A",
+        "text": "High Coupling"
+      },
+      {
+        "label": "B",
+        "text": "Low Coupling"
+      },
+      {
+        "label": "C",
+        "text": "Low Cohesion"
+      },
+      {
+        "label": "D",
+        "text": "High Inheritance"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 14,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-015",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In project management, what tool visually represents project tasks against time using horizontal bars?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pareto Chart"
+      },
+      {
+        "label": "B",
+        "text": "Gantt Chart"
+      },
+      {
+        "label": "C",
+        "text": "Control Chart"
+      },
+      {
+        "label": "D",
+        "text": "Ishikawa Diagram"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 15,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-016",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which testing method evaluates the software system without access to its internal source code structure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "White-Box Testing"
+      },
+      {
+        "label": "B",
+        "text": "Black-Box Testing"
+      },
+      {
+        "label": "C",
+        "text": "Gray-Box Testing"
+      },
+      {
+        "label": "D",
+        "text": "Unit Testing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 16,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-017",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In the PERT estimation technique, what three time estimates are calculated to find the expected activity duration?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Minimum, Average, Maximum"
+      },
+      {
+        "label": "B",
+        "text": "Optimistic, Most Likely, Pessimistic"
+      },
+      {
+        "label": "C",
+        "text": "Planned, Actual, Remaining"
+      },
+      {
+        "label": "D",
+        "text": "Start, Intermediary, Finish"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 17,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-018",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which document formalizes the project approval and grants the project manager authority to apply organizational resources?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Project Scope Statement"
+      },
+      {
+        "label": "B",
+        "text": "Project Charter"
+      },
+      {
+        "label": "C",
+        "text": "Work Breakdown Structure"
+      },
+      {
+        "label": "D",
+        "text": "Service Level Agreement"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 18,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-019",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What software engineering practice involves continuously merging all developer working copies to a shared mainline several times a day?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Continuous Deployment"
+      },
+      {
+        "label": "B",
+        "text": "Continuous Integration"
+      },
+      {
+        "label": "C",
+        "text": "Test-Driven Development"
+      },
+      {
+        "label": "D",
+        "text": "Pair Programming"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 19,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-020",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Earned Value Management, what formula calculates the Cost Variance (CV)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CV = EV - PV"
+      },
+      {
+        "label": "B",
+        "text": "CV = EV - AC"
+      },
+      {
+        "label": "C",
+        "text": "CV = AC - EV"
+      },
+      {
+        "label": "D",
+        "text": "CV = PV - AC"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 20,
+    "sourceSection": "Group A",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-021",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What is the primary objective of a Work Breakdown Structure (WBS) in project management?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To schedule tasks over time"
+      },
+      {
+        "label": "B",
+        "text": "To decompose total project scope into smaller, manageable components"
+      },
+      {
+        "label": "C",
+        "text": "To calculate total project cost"
+      },
+      {
+        "label": "D",
+        "text": "To assign team member salaries"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 21,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-022",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which software development model requires completing each phase fully before moving on to the next?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Agile Model"
+      },
+      {
+        "label": "B",
+        "text": "Waterfall Model"
+      },
+      {
+        "label": "C",
+        "text": "Incremental Model"
+      },
+      {
+        "label": "D",
+        "text": "RAD Model"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 22,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-023",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In software engineering, what is 'Technical Debt'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Financial loans taken to purchase software licenses"
+      },
+      {
+        "label": "B",
+        "text": "Implied cost of additional rework caused by choosing an easy solution now instead of a better approach"
+      },
+      {
+        "label": "C",
+        "text": "Salaries owed to software developers"
+      },
+      {
+        "label": "D",
+        "text": "Cost of hardware upgrades required for new software"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 23,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-024",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which UML diagram illustrates the physical deployment of artifacts on nodes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Component Diagram"
+      },
+      {
+        "label": "B",
+        "text": "Deployment Diagram"
+      },
+      {
+        "label": "C",
+        "text": "State Machine Diagram"
+      },
+      {
+        "label": "D",
+        "text": "Activity Diagram"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 24,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-025",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What is the main purpose of Software Configuration Management (SCM)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To design system architecture"
+      },
+      {
+        "label": "B",
+        "text": "To track and control changes in software artifacts and source code"
+      },
+      {
+        "label": "C",
+        "text": "To conduct performance appraisals for developers"
+      },
+      {
+        "label": "D",
+        "text": "To calculate market value of software products"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 25,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-026",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Agile development, what is a 'User Story'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Detailed technical specification of a database table"
+      },
+      {
+        "label": "B",
+        "text": "Informal, natural language explanation of software features from the end- user perspective"
+      },
+      {
+        "label": "C",
+        "text": "Legal contract signed by the client"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 26,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-027",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which architectural style separates an application into three interconnected components: data model, user interface, and control logic?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Microservices Architecture"
+      },
+      {
+        "label": "B",
+        "text": "Model-View-Controller (MVC)"
+      },
+      {
+        "label": "C",
+        "text": "Client-Server Architecture"
+      },
+      {
+        "label": "D",
+        "text": "Pipe-and-Filter Architecture"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 27,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-028",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In project risk management, what risk response strategy involves shifting the impact and ownership of a risk to a third party?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Risk Mitigation"
+      },
+      {
+        "label": "B",
+        "text": "Risk Avoidance"
+      },
+      {
+        "label": "C",
+        "text": "Risk Transfer"
+      },
+      {
+        "label": "D",
+        "text": "Risk Acceptance"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 28,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-029",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which testing type focuses on verifying communication and interface interfaces between integrated units or modules?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Unit Testing"
+      },
+      {
+        "label": "B",
+        "text": "Integration Testing"
+      },
+      {
+        "label": "C",
+        "text": "System Testing"
+      },
+      {
+        "label": "D",
+        "text": "Alpha Testing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 29,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-030",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Earned Value Management, if Cost Performance Index (CPI) is equal to 1.2, what does it indicate?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The project is over budget by 20%"
+      },
+      {
+        "label": "B",
+        "text": "The project is performing at 20% better than planned budget efficiency"
+      },
+      {
+        "label": "C",
+        "text": "The project is behind schedule by 20%"
+      },
+      {
+        "label": "D",
+        "text": "The project has completed 120% of its total tasks"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 30,
+    "sourceSection": "Group A",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-031",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which dynamic UML diagram models the behavior of a single object as it responds to events throughout its lifecycle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Activity Diagram"
+      },
+      {
+        "label": "B",
+        "text": "State Machine Diagram"
+      },
+      {
+        "label": "C",
+        "text": "Sequence Diagram"
+      },
+      {
+        "label": "D",
+        "text": "Class Diagram"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 31,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-032",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In project management, what term refers to the uncontrolled expansion of product or project scope without adjustments to time, cost, and resources?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scope Creep"
+      },
+      {
+        "label": "B",
+        "text": "Feature Inflation"
+      },
+      {
+        "label": "C",
+        "text": "Gold Plating"
+      },
+      {
+        "label": "D",
+        "text": "Scope Baseline"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 32,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-033",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which capability maturity level in the CMMI model indicates that processes are quantitatively measured and controlled?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Level 2 (Managed)"
+      },
+      {
+        "label": "B",
+        "text": "Level 3 (Defined)"
+      },
+      {
+        "label": "C",
+        "text": "Level 4 (Quantitatively Managed)"
+      },
+      {
+        "label": "D",
+        "text": "Level 5 (Optimizing)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 33,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-034",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What software design pattern provides a unified interface to a set of interfaces in a subsystem to make the subsystem easier to use?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adapter"
+      },
+      {
+        "label": "B",
+        "text": "Facade"
+      },
+      {
+        "label": "C",
+        "text": "Singleton"
+      },
+      {
+        "label": "D",
+        "text": "Observer"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 34,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-035",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Test-Driven Development (TDD), what is the correct order of the development cycle?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Write Code -> Write Test -> Refactor"
+      },
+      {
+        "label": "B",
+        "text": "Write Test -> Run Test (Fail) -> Write Code -> Run Test (Pass) -> Refactor"
+      },
+      {
+        "label": "C",
+        "text": "Design System -> Write Code -> Write Test -> Deploy"
+      },
+      {
+        "label": "D",
+        "text": "Write Test -> Refactor -> Write Code"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 35,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-036",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What project management metric measures the average amount of work an Agile team completes during a single sprint?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Velocity"
+      },
+      {
+        "label": "B",
+        "text": "Burndown Rate"
+      },
+      {
+        "label": "C",
+        "text": "Throughput"
+      },
+      {
+        "label": "D",
+        "text": "Lead Time"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 36,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-037",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which black-box testing technique divides input data into representative classes to derive test cases?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Boundary Value Analysis"
+      },
+      {
+        "label": "B",
+        "text": "Equivalence Partitioning"
+      },
+      {
+        "label": "C",
+        "text": "Cause-Effect Graphing"
+      },
+      {
+        "label": "D",
+        "text": "Orthogonal Array Testing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 37,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-038",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In software architecture, what type of coupling occurs when modules share global data structures?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Content Coupling"
+      },
+      {
+        "label": "B",
+        "text": "Common Coupling"
+      },
+      {
+        "label": "C",
+        "text": "Control Coupling"
+      },
+      {
+        "label": "D",
+        "text": "Stamp Coupling"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 38,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-039",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which estimating technique relies on historical data from similar past projects to estimate current project cost or duration?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Analogous Estimating"
+      },
+      {
+        "label": "B",
+        "text": "Parametric Estimating"
+      },
+      {
+        "label": "C",
+        "text": "Bottom-Up Estimating"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 39,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-040",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What stage of acceptance testing is performed by potential customers or end- users at their own sites without developer intervention?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alpha Testing"
+      },
+      {
+        "label": "B",
+        "text": "Beta Testing"
+      },
+      {
+        "label": "C",
+        "text": "Smoke Testing"
+      },
+      {
+        "label": "D",
+        "text": "Sanity Testing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 40,
+    "sourceSection": "Group A",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-041",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What type of maintenance is performed to fix bugs and defects discovered in production?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Corrective Maintenance"
+      },
+      {
+        "label": "B",
+        "text": "Adaptive Maintenance"
+      },
+      {
+        "label": "C",
+        "text": "Perfective Maintenance"
+      },
+      {
+        "label": "D",
+        "text": "Preventive Maintenance"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 41,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-042",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which software development framework uses visual boards with columns like 'To Do', 'In Progress', and 'Done' to manage work?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scrum"
+      },
+      {
+        "label": "B",
+        "text": "Kanban"
+      },
+      {
+        "label": "C",
+        "text": "XP (Extreme Programming)"
+      },
+      {
+        "label": "D",
+        "text": "Waterfall"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 42,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-043",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In project management, what is the 'Triple Constraint'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scope, Time, Cost"
+      },
+      {
+        "label": "B",
+        "text": "Quality, Cost, Risk"
+      },
+      {
+        "label": "C",
+        "text": "Resources, Schedule, Team"
+      },
+      {
+        "label": "D",
+        "text": "Planning, Execution, Monitoring"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 43,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-044",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which UML diagram represents static structural view of a software system showing classes, attributes, and relationships?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sequence Diagram"
+      },
+      {
+        "label": "B",
+        "text": "Class Diagram"
+      },
+      {
+        "label": "C",
+        "text": "Activity Diagram"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 44,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-045",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What technique tests boundary values at the extreme ends of input domains?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Boundary Value Analysis"
+      },
+      {
+        "label": "B",
+        "text": "Equivalence Partitioning"
+      },
+      {
+        "label": "C",
+        "text": "Decision Table Testing"
+      },
+      {
+        "label": "D",
+        "text": "State Transition Testing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 45,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-046",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What document details all requirements provided by stakeholders before design begins?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Software Requirement Specification (SRS)"
+      },
+      {
+        "label": "B",
+        "text": "Software Architecture Document (SAD)"
+      },
+      {
+        "label": "C",
+        "text": "Test Plan Specification"
+      },
+      {
+        "label": "D",
+        "text": "User Acceptance Document"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 46,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-047",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which design pattern ensures a class has only one instance and provides a global point of access to it?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Factory Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Singleton Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Observer Pattern"
+      },
+      {
+        "label": "D",
+        "text": "Strategy Pattern"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 47,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-048",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In software engineering, what is 'Refactoring'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adding new features to an existing code base"
+      },
+      {
+        "label": "B",
+        "text": "Restructuring existing code without changing its external behavior"
+      },
+      {
+        "label": "C",
+        "text": "Fixing critical production crashes"
+      },
+      {
+        "label": "D",
+        "text": "Writing system test cases"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 48,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-049",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which testing is done to verify that the system can recover from crashes and hardware failures?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Recovery Testing"
+      },
+      {
+        "label": "B",
+        "text": "Stress Testing"
+      },
+      {
+        "label": "C",
+        "text": "Load Testing"
+      },
+      {
+        "label": "D",
+        "text": "Usability Testing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 49,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-050",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "What metric calculates the total duration required to convert a software requirement into a delivered feature?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lead Time"
+      },
+      {
+        "label": "B",
+        "text": "Cycle Time"
+      },
+      {
+        "label": "C",
+        "text": "Reaction Time"
+      },
+      {
+        "label": "D",
+        "text": "Idle Time"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 50,
+    "sourceSection": "Group A",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-051",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "IEEE defines software engineering as the application of a ______ approach to the development, operation and maintenance of software.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ad hoc"
+      },
+      {
+        "label": "B",
+        "text": "Systematic, disciplined, quantifiable"
+      },
+      {
+        "label": "C",
+        "text": "Informal, flexible"
+      },
+      {
+        "label": "D",
+        "text": "Hardware-oriented"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 1,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-052",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which of the following is NOT a generic framework activity?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Communication"
+      },
+      {
+        "label": "B",
+        "text": "Modeling"
+      },
+      {
+        "label": "C",
+        "text": "Deployment"
+      },
+      {
+        "label": "D",
+        "text": "Marketing"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 2,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-053",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Software does not \"wear out\" in the way hardware does, but it ______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Never changes"
+      },
+      {
+        "label": "B",
+        "text": "Deteriorates due to changes"
+      },
+      {
+        "label": "C",
+        "text": "Becomes faster with age"
+      },
+      {
+        "label": "D",
+        "text": "Is immune to defects"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 3,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-054",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The Waterfall model is also known as the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Spiral model"
+      },
+      {
+        "label": "B",
+        "text": "Classic life cycle"
+      },
+      {
+        "label": "C",
+        "text": "Evolutionary model"
+      },
+      {
+        "label": "D",
+        "text": "Concurrent model"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 4,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-055",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which model delivers software in a series of releases, each providing more functionality?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Waterfall"
+      },
+      {
+        "label": "B",
+        "text": "Incremental"
+      },
+      {
+        "label": "C",
+        "text": "V-model"
+      },
+      {
+        "label": "D",
+        "text": "Big-bang"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 5,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-056",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The Spiral model is primarily driven by:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Documentation"
+      },
+      {
+        "label": "B",
+        "text": "Risk"
+      },
+      {
+        "label": "C",
+        "text": "Code reuse"
+      },
+      {
+        "label": "D",
+        "text": "Testing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 6,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-057",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "\"Adding more people to a late software project will make it catch up\" is an example of a:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Software principle"
+      },
+      {
+        "label": "B",
+        "text": "Management myth"
+      },
+      {
+        "label": "C",
+        "text": "Customer myth"
+      },
+      {
+        "label": "D",
+        "text": "Practitioner's myth"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 7,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-058",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which attribute is characteristic of WebApps?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Network intensiveness"
+      },
+      {
+        "label": "B",
+        "text": "Standalone execution"
+      },
+      {
+        "label": "C",
+        "text": "Long release cycles"
+      },
+      {
+        "label": "D",
+        "text": "Fixed content"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 8,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-059",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The Concurrent process model represents:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Activities occurring strictly one after another"
+      },
+      {
+        "label": "B",
+        "text": "Activities existing simultaneously in different states"
+      },
+      {
+        "label": "C",
+        "text": "Only the testing phase"
+      },
+      {
+        "label": "D",
+        "text": "Only maintenance activities"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 9,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-060",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The Unified Process is described as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Use-case driven, architecture-centric, iterative and incremental"
+      },
+      {
+        "label": "B",
+        "text": "Document-driven and sequential"
+      },
+      {
+        "label": "C",
+        "text": "Code- centric and non-iterative"
+      },
+      {
+        "label": "D",
+        "text": "Hardware-driven"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 10,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-061",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which is NOT a phase of the Unified Process?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Inception"
+      },
+      {
+        "label": "B",
+        "text": "Elaboration"
+      },
+      {
+        "label": "C",
+        "text": "Construction"
+      },
+      {
+        "label": "D",
+        "text": "Retirement planning"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 11,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-062",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "PSP and TSP stand for:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Public Software Process and Technical Software Process"
+      },
+      {
+        "label": "B",
+        "text": "Personal Software Process and Team Software Process"
+      },
+      {
+        "label": "C",
+        "text": "Program Software Plan and Team Software Plan"
+      },
+      {
+        "label": "D",
+        "text": "Product Support Process and Team Support Process"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 12,
+    "sourceSection": "Unit I",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-063",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which requirements engineering task comes first?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Elaboration"
+      },
+      {
+        "label": "B",
+        "text": "Inception"
+      },
+      {
+        "label": "C",
+        "text": "Negotiation"
+      },
+      {
+        "label": "D",
+        "text": "Validation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 1,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-064",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Quality Function Deployment (QFD) classifies requirements as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Normal, expected, exciting"
+      },
+      {
+        "label": "B",
+        "text": "Functional, non-functional, optional"
+      },
+      {
+        "label": "C",
+        "text": "Primary, secondary, tertiary"
+      },
+      {
+        "label": "D",
+        "text": "Simple, medium, complex"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 2,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-065",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In a use case, an actor is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "A class in the design model"
+      },
+      {
+        "label": "B",
+        "text": "Anything that communicates with the system from outside"
+      },
+      {
+        "label": "C",
+        "text": "A database table"
+      },
+      {
+        "label": "D",
+        "text": "A test case"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 3,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-066",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which of the following is NOT an element of the requirements model?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scenario-based elements"
+      },
+      {
+        "label": "B",
+        "text": "Class-based elements"
+      },
+      {
+        "label": "C",
+        "text": "Behavioral elements"
+      },
+      {
+        "label": "D",
+        "text": "Deployment elements"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 4,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-067",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Requirements negotiation aims to reach a ______ outcome.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Win-lose"
+      },
+      {
+        "label": "B",
+        "text": "Win-win"
+      },
+      {
+        "label": "C",
+        "text": "Lose-lose"
+      },
+      {
+        "label": "D",
+        "text": "Zero-sum"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 5,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-068",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The most effective mechanism for requirements validation is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Formal technical review"
+      },
+      {
+        "label": "B",
+        "text": "Compilation"
+      },
+      {
+        "label": "C",
+        "text": "Code obfuscation"
+      },
+      {
+        "label": "D",
+        "text": "Load testing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 6,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-069",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "A swimlane diagram is a variation of the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Class diagram"
+      },
+      {
+        "label": "B",
+        "text": "UML activity diagram"
+      },
+      {
+        "label": "C",
+        "text": "Deployment diagram"
+      },
+      {
+        "label": "D",
+        "text": "ER diagram"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 7,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-070",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which is a type of analysis class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Entity, boundary, controller"
+      },
+      {
+        "label": "B",
+        "text": "Abstract, final, static"
+      },
+      {
+        "label": "C",
+        "text": "Public, private, protected"
+      },
+      {
+        "label": "D",
+        "text": "Client, server, proxy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 8,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-071",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "CRC modeling stands for:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Class-Responsibility-Collaborator"
+      },
+      {
+        "label": "B",
+        "text": "Code-Review-Check"
+      },
+      {
+        "label": "C",
+        "text": "Cost-Risk-Control"
+      },
+      {
+        "label": "D",
+        "text": "Control-Resource- Configuration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 9,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-072",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In data modeling, cardinality specifies:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The data type of an attribute"
+      },
+      {
+        "label": "B",
+        "text": "The number of occurrences of one object that can relate to another"
+      },
+      {
+        "label": "C",
+        "text": "The size of the database"
+      },
+      {
+        "label": "D",
+        "text": "The speed of access"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 10,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-073",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "A Level 0 data flow diagram is also called the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Context-level diagram"
+      },
+      {
+        "label": "B",
+        "text": "State diagram"
+      },
+      {
+        "label": "C",
+        "text": "Class diagram"
+      },
+      {
+        "label": "D",
+        "text": "Sequence diagram"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 11,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-074",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Behavioral modeling primarily uses:",
+    "options": [
+      {
+        "label": "A",
+        "text": "State diagrams"
+      },
+      {
+        "label": "B",
+        "text": "Gantt charts"
+      },
+      {
+        "label": "C",
+        "text": "PERT charts"
+      },
+      {
+        "label": "D",
+        "text": "Fishbone diagrams"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 12,
+    "sourceSection": "Unit II",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-075",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The Agile Manifesto values ______ over processes and tools.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Comprehensive documentation"
+      },
+      {
+        "label": "B",
+        "text": "Individuals and interactions"
+      },
+      {
+        "label": "C",
+        "text": "Contract negotiation"
+      },
+      {
+        "label": "D",
+        "text": "Following a plan"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 1,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-076",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Agile processes aim to ______ the cost-of-change curve.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Steepen"
+      },
+      {
+        "label": "B",
+        "text": "Flatten"
+      },
+      {
+        "label": "C",
+        "text": "Reverse"
+      },
+      {
+        "label": "D",
+        "text": "Ignore"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 2,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-077",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which is NOT an XP value?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Communication"
+      },
+      {
+        "label": "B",
+        "text": "Simplicity"
+      },
+      {
+        "label": "C",
+        "text": "Feedback"
+      },
+      {
+        "label": "D",
+        "text": "Bureaucracy"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 3,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-078",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In XP, requirements are captured as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "SRS documents"
+      },
+      {
+        "label": "B",
+        "text": "User stories"
+      },
+      {
+        "label": "C",
+        "text": "Data dictionaries"
+      },
+      {
+        "label": "D",
+        "text": "Formal specifications"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 4,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-079",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Pair programming is a practice of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Scrum"
+      },
+      {
+        "label": "B",
+        "text": "Extreme Programming"
+      },
+      {
+        "label": "C",
+        "text": "Waterfall"
+      },
+      {
+        "label": "D",
+        "text": "RUP"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 5,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-080",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Refactoring in XP means:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adding new features"
+      },
+      {
+        "label": "B",
+        "text": "Improving internal code structure without changing external behavior"
+      },
+      {
+        "label": "C",
+        "text": "Rewriting requirements"
+      },
+      {
+        "label": "D",
+        "text": "Removing tests"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 6,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-081",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Scrum, a time-boxed iteration is called a:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sprint"
+      },
+      {
+        "label": "B",
+        "text": "Phase"
+      },
+      {
+        "label": "C",
+        "text": "Milestone"
+      },
+      {
+        "label": "D",
+        "text": "Baseline"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 7,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-082",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "DSDM is based on which principle, in which 80% of the application is delivered in 20% of the time?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pareto principle"
+      },
+      {
+        "label": "B",
+        "text": "Brooks' law"
+      },
+      {
+        "label": "C",
+        "text": "Parkinson's law"
+      },
+      {
+        "label": "D",
+        "text": "Murphy's law"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 8,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-083",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which of the following is a family of agile methods emphasizing people and tailoring to project size and criticality?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Crystal"
+      },
+      {
+        "label": "B",
+        "text": "COCOMO"
+      },
+      {
+        "label": "C",
+        "text": "CMMI"
+      },
+      {
+        "label": "D",
+        "text": "SCAMPI"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 9,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-084",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Feature Driven Development (FDD) expresses a feature in the form:",
+    "options": [
+      {
+        "label": "A",
+        "text": "<action> the <result> <by|for|of|to> a(n) <object>"
+      },
+      {
+        "label": "B",
+        "text": "As a <user>, I want <goal>"
+      },
+      {
+        "label": "C",
+        "text": "Given-When-Then"
+      },
+      {
+        "label": "D",
+        "text": "Input- Process-Output"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 10,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-085",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Hooker's first principle, \"The Reason It All Exists\", states that:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Software exists to provide value to its users"
+      },
+      {
+        "label": "B",
+        "text": "Software exists to use the latest technology"
+      },
+      {
+        "label": "C",
+        "text": "Documentation is the goal"
+      },
+      {
+        "label": "D",
+        "text": "Code reuse is mandatory"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 11,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-086",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The \"KISS\" core principle in software practice means:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Keep It Simple, Stupid"
+      },
+      {
+        "label": "B",
+        "text": "Keep It Secure and Safe"
+      },
+      {
+        "label": "C",
+        "text": "Know Internal System Structure"
+      },
+      {
+        "label": "D",
+        "text": "Keep Iterating Stage by Stage"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 12,
+    "sourceSection": "Unit III",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-087",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "A software project is typically defined as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Routine and repetitive"
+      },
+      {
+        "label": "B",
+        "text": "Non-routine, planned, with specific objectives"
+      },
+      {
+        "label": "C",
+        "text": "Unplanned and open-ended"
+      },
+      {
+        "label": "D",
+        "text": "A maintenance-only activity"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 1,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-088",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which of the following is a stakeholder?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Project sponsor"
+      },
+      {
+        "label": "B",
+        "text": "End users"
+      },
+      {
+        "label": "C",
+        "text": "Project team members"
+      },
+      {
+        "label": "D",
+        "text": "All of the above"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 2,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-089",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In SMART objectives, \"M\" stands for:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Manageable"
+      },
+      {
+        "label": "B",
+        "text": "Measurable"
+      },
+      {
+        "label": "C",
+        "text": "Meaningful"
+      },
+      {
+        "label": "D",
+        "text": "Mandatory"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 3,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-090",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which is a type of software contract?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fixed price"
+      },
+      {
+        "label": "B",
+        "text": "Time and materials"
+      },
+      {
+        "label": "C",
+        "text": "Fixed price per unit delivered"
+      },
+      {
+        "label": "D",
+        "text": "All of the above"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 4,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-091",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "A project whose aim is to meet a specific objective that can be met by many different products is classified as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Product-driven"
+      },
+      {
+        "label": "B",
+        "text": "Objective-driven"
+      },
+      {
+        "label": "C",
+        "text": "Embedded"
+      },
+      {
+        "label": "D",
+        "text": "Maintenance-driven"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 5,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-092",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The management control cycle consists of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Setting objectives, monitoring, and taking corrective action"
+      },
+      {
+        "label": "B",
+        "text": "Coding, testing, deploying"
+      },
+      {
+        "label": "C",
+        "text": "Hiring, training, firing"
+      },
+      {
+        "label": "D",
+        "text": "Billing, auditing, closing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 6,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-093",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "The payback period is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The time taken for cumulative cash inflows to equal the investment"
+      },
+      {
+        "label": "B",
+        "text": "The project's total duration"
+      },
+      {
+        "label": "C",
+        "text": "The warranty period"
+      },
+      {
+        "label": "D",
+        "text": "The development time"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 7,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-094",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Net Present Value (NPV) discounts future cash flows to:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Their future value"
+      },
+      {
+        "label": "B",
+        "text": "Their present value"
+      },
+      {
+        "label": "C",
+        "text": "Zero"
+      },
+      {
+        "label": "D",
+        "text": "Inflation-adjusted cost only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 8,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-095",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Return on Investment (ROI) is calculated as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "(Average annual profit ÷ Total investment) × 100"
+      },
+      {
+        "label": "B",
+        "text": "Total cost ÷ Total revenue"
+      },
+      {
+        "label": "C",
+        "text": "Total investment ÷ Average annual profit"
+      },
+      {
+        "label": "D",
+        "text": "NPV ÷ Time"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 9,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-096",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Risk exposure is computed as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Probability of occurrence × Impact"
+      },
+      {
+        "label": "B",
+        "text": "Probability + Impact"
+      },
+      {
+        "label": "C",
+        "text": "Impact ÷ Probability"
+      },
+      {
+        "label": "D",
+        "text": "Cost ÷ Time"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 10,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-097",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Modern project management practices differ from traditional ones in that they emphasize:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rigid upfront planning"
+      },
+      {
+        "label": "B",
+        "text": "Adaptive planning and stakeholder collaboration"
+      },
+      {
+        "label": "C",
+        "text": "Eliminating communication"
+      },
+      {
+        "label": "D",
+        "text": "Avoiding iterations"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 11,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-098",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "A business case for a project primarily justifies:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The programming language chosen"
+      },
+      {
+        "label": "B",
+        "text": "Why the project is worth undertaking, in terms of costs and benefits"
+      },
+      {
+        "label": "C",
+        "text": "The test cases"
+      },
+      {
+        "label": "D",
+        "text": "The user interface design"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 12,
+    "sourceSection": "Unit IV",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-099",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Software quality is commonly defined as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Conformance to requirements and fitness for use"
+      },
+      {
+        "label": "B",
+        "text": "Lines of code produced"
+      },
+      {
+        "label": "C",
+        "text": "Number of developers"
+      },
+      {
+        "label": "D",
+        "text": "Speed of delivery only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 1,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-100",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which is NOT a characteristic in the ISO 9126 quality model?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reliability"
+      },
+      {
+        "label": "B",
+        "text": "Usability"
+      },
+      {
+        "label": "C",
+        "text": "Portability"
+      },
+      {
+        "label": "D",
+        "text": "Profitability"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 2,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-101",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "McCall's quality factors are grouped into product operation, product revision, and:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Product transition"
+      },
+      {
+        "label": "B",
+        "text": "Product marketing"
+      },
+      {
+        "label": "C",
+        "text": "Product pricing"
+      },
+      {
+        "label": "D",
+        "text": "Product retirement"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 3,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-102",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Product quality management focuses on:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Testing the final product"
+      },
+      {
+        "label": "B",
+        "text": "Improving the process only"
+      },
+      {
+        "label": "C",
+        "text": "Training"
+      },
+      {
+        "label": "D",
+        "text": "Contracts"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 4,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-103",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which of the following is a process-quality standard?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "B",
+        "text": "UML"
+      },
+      {
+        "label": "C",
+        "text": "HTML"
+      },
+      {
+        "label": "D",
+        "text": "SQL"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 5,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-104",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which is a decomposition technique for software estimation?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Problem-based estimation"
+      },
+      {
+        "label": "B",
+        "text": "Hashing"
+      },
+      {
+        "label": "C",
+        "text": "Normalization"
+      },
+      {
+        "label": "D",
+        "text": "Encapsulation"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 6,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-105",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Size-oriented metrics use ______ as the normalization value.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Function points"
+      },
+      {
+        "label": "B",
+        "text": "Lines of code (LOC)"
+      },
+      {
+        "label": "C",
+        "text": "Defects"
+      },
+      {
+        "label": "D",
+        "text": "Use cases"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 7,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-106",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Function point analysis is computed using which information domain values?",
+    "options": [
+      {
+        "label": "A",
+        "text": "EI, EO, EQ, ILF, EIF"
+      },
+      {
+        "label": "B",
+        "text": "Classes, objects, methods"
+      },
+      {
+        "label": "C",
+        "text": "Modules, loops, branches"
+      },
+      {
+        "label": "D",
+        "text": "Inputs only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 8,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-107",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "COCOMO stands for:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Constructive Cost Model"
+      },
+      {
+        "label": "B",
+        "text": "Common Code Model"
+      },
+      {
+        "label": "C",
+        "text": "Controlled Cost Management"
+      },
+      {
+        "label": "D",
+        "text": "Complex Cost Measure"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 9,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-108",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In Basic COCOMO, the three development modes are:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Organic, semi-detached, embedded"
+      },
+      {
+        "label": "B",
+        "text": "Simple, medium, complex"
+      },
+      {
+        "label": "C",
+        "text": "Small, large, huge"
+      },
+      {
+        "label": "D",
+        "text": "Agile, spiral, waterfall"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 10,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-109",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "In the three-point estimation technique, the expected value is calculated as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "(S_opt + 4·S_m + S_pess) / 6"
+      },
+      {
+        "label": "B",
+        "text": "(S_opt + S_m + S_pess) / 2"
+      },
+      {
+        "label": "C",
+        "text": "S_opt × S_pess"
+      },
+      {
+        "label": "D",
+        "text": "(S_opt + S_pess) / 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 11,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-110",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 1,
+    "question": "Which COCOMO II model uses object points for early-stage estimation?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Application composition model"
+      },
+      {
+        "label": "B",
+        "text": "Post-architecture model"
+      },
+      {
+        "label": "C",
+        "text": "Basic COCOMO"
+      },
+      {
+        "label": "D",
+        "text": "Intermediate COCOMO"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 12,
+    "sourceSection": "Unit V",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-111",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In software architecture, which coupling level is considered the worst (highest and least desirable)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Common Coupling"
+      },
+      {
+        "label": "B",
+        "text": "Control Coupling"
+      },
+      {
+        "label": "C",
+        "text": "Content Coupling"
+      },
+      {
+        "label": "D",
+        "text": "Data Coupling"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 51,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-112",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "According to COCOMO II, what type of scale factors lead to diseconomies of scale when project size increases?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Exponent values greater than 1.0"
+      },
+      {
+        "label": "B",
+        "text": "Multiplicative effort multipliers less than 1.0"
+      },
+      {
+        "label": "C",
+        "text": "Linear sizing equations"
+      },
+      {
+        "label": "D",
+        "text": "Function Point conversion ratios"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 52,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-113",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Earned Value Management, if Cost Variance (CV) = 0 and Schedule Variance (SV) = 0, what does it mean?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Project is strictly on budget and on schedule"
+      },
+      {
+        "label": "B",
+        "text": "Project is abandoned"
+      },
+      {
+        "label": "C",
+        "text": "Project has zero remaining budget"
+      },
+      {
+        "label": "D",
+        "text": "EVM metrics are miscalculated"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 53,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-114",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which SOLID design principle is violated if a derived class overrides a base class method in a way that breaks base class expectations?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Single Responsibility Principle"
+      },
+      {
+        "label": "B",
+        "text": "Open-Closed Principle"
+      },
+      {
+        "label": "C",
+        "text": "Liskov Substitution Principle"
+      },
+      {
+        "label": "D",
+        "text": "Dependency Inversion Principle"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "",
+    "sourceNumber": 54,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-115",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Software Project Planning, what is 'Free Float' (Free Slack)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Amount of time an activity can be delayed without delaying the project finish date"
+      },
+      {
+        "label": "B",
+        "text": "Amount of time an activity can be delayed without delaying the early start of any immediate successor activity"
+      },
+      {
+        "label": "C",
+        "text": "Maximum delay permitted on the critical path"
+      },
+      {
+        "label": "D",
+        "text": "Extra buffer time added to whole project schedule"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 55,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-116",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which architectural pattern uses event-driven communication to maintain eventual consistency across decoupled microservices?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Monolithic Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Saga Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Layered Architecture"
+      },
+      {
+        "label": "D",
+        "text": "Client-Server Architecture"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 56,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-117",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What software reliability metric measures the average time between operational failures of a system?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mean Time To Repair (MTTR)"
+      },
+      {
+        "label": "B",
+        "text": "Mean Time Between Failures (MTBF)"
+      },
+      {
+        "label": "C",
+        "text": "Mean Time To Failure (MTTF)"
+      },
+      {
+        "label": "D",
+        "text": "Defect Density"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 57,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-118",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Cyclomatic Complexity calculation using graph theory (V(G) = E - N + 2P), what do E and N represent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Errors and Nodes"
+      },
+      {
+        "label": "B",
+        "text": "Edges and Nodes"
+      },
+      {
+        "label": "C",
+        "text": "Execution paths and Number of lines"
+      },
+      {
+        "label": "D",
+        "text": "Entities and Networks"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 58,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-119",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What is the primary drawback of using the Lines of Code (LOC) metric for estimating software effort?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hard to count automatically"
+      },
+      {
+        "label": "B",
+        "text": "Language dependent and penalizes concise, elegant code"
+      },
+      {
+        "label": "C",
+        "text": "Cannot be calculated after project completion"
+      },
+      {
+        "label": "D",
+        "text": "Ignores system testing phases"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 59,
+    "sourceSection": "Group B",
+    "co": "CO1",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-120",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Function Point Analysis (FPA), which component measures data coming into the application from external sources?",
+    "options": [
+      {
+        "label": "A",
+        "text": "External Inputs (EI)"
+      },
+      {
+        "label": "B",
+        "text": "External Outputs (EO)"
+      },
+      {
+        "label": "C",
+        "text": "External Inquiries (EQ)"
+      },
+      {
+        "label": "D",
+        "text": "Internal Logical Files (ILF)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 60,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-121",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which software design pattern delegates creation logic to subclasses rather than instantiating classes directly?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Factory Method Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Builder Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Prototype Pattern"
+      },
+      {
+        "label": "D",
+        "text": "Decorator Pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 61,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-122",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What dynamic analysis technique checks source code at runtime for memory leaks and buffer overflows?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Static Code Analysis"
+      },
+      {
+        "label": "B",
+        "text": "Dynamic Memory Profiling"
+      },
+      {
+        "label": "C",
+        "text": "Formal Code Inspection"
+      },
+      {
+        "label": "D",
+        "text": "Syntax Checking"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 62,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-123",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In risk management, what is the calculated value of 'Risk Exposure' (or Risk Impact Value)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Risk Impact + Risk Probability"
+      },
+      {
+        "label": "B",
+        "text": "Risk Probability x Risk Impact"
+      },
+      {
+        "label": "C",
+        "text": "Risk Mitigation Cost / Risk Impact"
+      },
+      {
+        "label": "D",
+        "text": "Total Budget - Risk Reserve"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 63,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-124",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which software process model places maximum emphasis on user feedback via working prototypes built rapidly in early stages?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rapid Application Development (RAD)"
+      },
+      {
+        "label": "B",
+        "text": "Cleanroom Software Engineering"
+      },
+      {
+        "label": "C",
+        "text": "Waterfall Model"
+      },
+      {
+        "label": "D",
+        "text": "Formal Methods Model"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 64,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-125",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What is 'Mutation Testing' used for in software quality control?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Evaluating performance under high database load"
+      },
+      {
+        "label": "B",
+        "text": "Assessing the effectiveness and quality of test cases by introducing intentional bugs into code"
+      },
+      {
+        "label": "C",
+        "text": "Checking UI layout variations on mobile devices"
+      },
+      {
+        "label": "D",
+        "text": "Finding hardware compatibility issues"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 65,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-126",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Scrum, what is the maximum recommended time-box duration for a Daily Standup meeting?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15 minutes"
+      },
+      {
+        "label": "B",
+        "text": "30 minutes"
+      },
+      {
+        "label": "C",
+        "text": "45 minutes"
+      },
+      {
+        "label": "D",
+        "text": "1 hour"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 66,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-127",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which type of cohesion is present when functions within a module are grouped because they operate on the same input data or produce the same output data?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Coincidental Cohesion"
+      },
+      {
+        "label": "B",
+        "text": "Communicational Cohesion"
+      },
+      {
+        "label": "C",
+        "text": "Sequential Cohesion"
+      },
+      {
+        "label": "D",
+        "text": "Temporal Cohesion"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 67,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-128",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What formal software verification method uses mathematical logic to prove that a program meets its specification?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cleanroom Software Engineering"
+      },
+      {
+        "label": "B",
+        "text": "Formal Methods"
+      },
+      {
+        "label": "C",
+        "text": "Domain Analysis"
+      },
+      {
+        "label": "D",
+        "text": "Model Driven Engineering"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 68,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-129",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Cleanroom Software Engineering, what is used instead of traditional unit testing by developers?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Formal correctness verification and statistical usage testing"
+      },
+      {
+        "label": "B",
+        "text": "Automated Selenium scripts"
+      },
+      {
+        "label": "C",
+        "text": "Black-box smoke tests"
+      },
+      {
+        "label": "D",
+        "text": "User acceptance reviews"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 69,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-130",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In software architecture, what problem does the 'Circuit Breaker Pattern' solve?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Prevents an application from repeatedly invoking a service that is failing or unavailable"
+      },
+      {
+        "label": "B",
+        "text": "Encrypts REST API calls"
+      },
+      {
+        "label": "C",
+        "text": "Balances traffic across multiple web servers"
+      },
+      {
+        "label": "D",
+        "text": "Caches SQL queries in memory"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 70,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-131",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What does 'To-Complete Performance Index' (TCPI) measure in Earned Value Management?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The cost performance factor needed to achieve a target BAC or EAC"
+      },
+      {
+        "label": "B",
+        "text": "Time required to complete remaining tasks on critical path"
+      },
+      {
+        "label": "C",
+        "text": "Ratio of completed stories to total backlog items"
+      },
+      {
+        "label": "D",
+        "text": "Maximum allowed budget overrun"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 71,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-132",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In UML class diagrams, what symbol represents 'Composition' (strong aggregation where child lifecycle depends on parent)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Open diamond"
+      },
+      {
+        "label": "B",
+        "text": "Filled (solid) diamond"
+      },
+      {
+        "label": "C",
+        "text": "Dashed line with open arrowhead"
+      },
+      {
+        "label": "D",
+        "text": "Solid line with hollow triangle"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 72,
+    "sourceSection": "Group B",
+    "co": "CO2",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-133",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What design pattern dynamic wrap behavior around an individual object without modifying the core class structure?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Decorator Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Composite Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Flyweight Pattern"
+      },
+      {
+        "label": "D",
+        "text": "Proxy Pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 73,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-134",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which type of software testing verifies that system behavior remains acceptable under extreme or illegal input workloads?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stress Testing"
+      },
+      {
+        "label": "B",
+        "text": "Sanity Testing"
+      },
+      {
+        "label": "C",
+        "text": "Alpha Testing"
+      },
+      {
+        "label": "D",
+        "text": "Structural Testing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 74,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-135",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What is 'Gold Plating' in software project management?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adding extra features or scope not requested by the customer"
+      },
+      {
+        "label": "B",
+        "text": "Buying premium software development tools"
+      },
+      {
+        "label": "C",
+        "text": "Paying performance bonuses to star developers"
+      },
+      {
+        "label": "D",
+        "text": "Delivering project ahead of deadline"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 75,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-136",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In software engineering, what is the purpose of 'Reverse Engineering'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Deriving software design and requirements from existing executable code"
+      },
+      {
+        "label": "B",
+        "text": "Writing unit tests after code deployment"
+      },
+      {
+        "label": "C",
+        "text": "Converting high-level code directly into assembly"
+      },
+      {
+        "label": "D",
+        "text": "Deleting old codebase versions from Git"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 76,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-137",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which white-box coverage criterion requires every decision branch (true/false) in the control flow to be evaluated at least once?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement Coverage"
+      },
+      {
+        "label": "B",
+        "text": "Branch/Decision Coverage"
+      },
+      {
+        "label": "C",
+        "text": "Path Coverage"
+      },
+      {
+        "label": "D",
+        "text": "Condition/Multiple Condition Coverage"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 77,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-138",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What does 'Defect Density' measure in software quality metrics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Number of confirmed defects divided by the size of the software module (e.g., KLOC)"
+      },
+      {
+        "label": "B",
+        "text": "Ratio of critical bugs to low severity bugs"
+      },
+      {
+        "label": "C",
+        "text": "Time taken to fix a reported defect"
+      },
+      {
+        "label": "D",
+        "text": "Total bugs reported during acceptance testing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 78,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-139",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In project risk analysis, what technique uses computer simulations to model project outcome probabilities based on risk variables?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Monte Carlo Simulation"
+      },
+      {
+        "label": "B",
+        "text": "Decision Tree Analysis"
+      },
+      {
+        "label": "C",
+        "text": "Sensitivity Analysis"
+      },
+      {
+        "label": "D",
+        "text": "Pareto Analysis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 79,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-140",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which software maintenance category includes changes made to enhance performance or maintainability without changing system functionality?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perfective Maintenance"
+      },
+      {
+        "label": "B",
+        "text": "Corrective Maintenance"
+      },
+      {
+        "label": "C",
+        "text": "Adaptive Maintenance"
+      },
+      {
+        "label": "D",
+        "text": "Preventive Maintenance"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 80,
+    "sourceSection": "Group B",
+    "co": "CO3",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-141",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What software design pattern defines a one-to-many dependency so that when one object changes state, all dependents are notified automatically?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Observer Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Command Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Mediator Pattern"
+      },
+      {
+        "label": "D",
+        "text": "State Pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 81,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-142",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In Agile development, what is a 'Spike'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A research or prototype activity undertaken to gather knowledge or resolve technical uncertainty"
+      },
+      {
+        "label": "B",
+        "text": "A sudden drop in team velocity during a sprint"
+      },
+      {
+        "label": "C",
+        "text": "A critical bug found in production requiring emergency hoƞix"
+      },
+      {
+        "label": "D",
+        "text": "An influx of unapproved user stories into backlog"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 82,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-143",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which testing strategy tests software modules from the bottom of the control hierarchy upward using 'drivers'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Top-Down Integration Testing"
+      },
+      {
+        "label": "B",
+        "text": "Bottom-Up Integration Testing"
+      },
+      {
+        "label": "C",
+        "text": "Sandwich Integration Testing"
+      },
+      {
+        "label": "D",
+        "text": "Big Bang Integration Testing"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "",
+    "sourceNumber": 83,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-144",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What is a 'Stub' in software integration testing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dummy code module that simulates low-level modules called by higher-level modules"
+      },
+      {
+        "label": "B",
+        "text": "Dummy code module that calls the module under test"
+      },
+      {
+        "label": "C",
+        "text": "Automated test script runner"
+      },
+      {
+        "label": "D",
+        "text": "Broken code snippet causing compiler errors"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 84,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-145",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In requirements engineering, what is 'Traceability Matrix' used for?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mapping user requirements directly to corresponding design, code, and test cases"
+      },
+      {
+        "label": "B",
+        "text": "Tracking bug locations in source code repository"
+      },
+      {
+        "label": "C",
+        "text": "Calculating project budget expenditures over time"
+      },
+      {
+        "label": "D",
+        "text": "Tracking hours worked by each development team member"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 85,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-146",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which metric measures the degree of independence among software modules?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Coupling"
+      },
+      {
+        "label": "B",
+        "text": "Cohesion"
+      },
+      {
+        "label": "C",
+        "text": "Encapsulation"
+      },
+      {
+        "label": "D",
+        "text": "Inheritance depth"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 86,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-147",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What structural design pattern allows incompatible interfaces to work together by wrapping an existing class with a new interface?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Adapter Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Bridge Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Composite Pattern"
+      },
+      {
+        "label": "D",
+        "text": "Proxy Pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 87,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-148",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which project management technique uses a weighted average of optimistic, most likely, and pessimistic estimates to calculate expected activity duration?",
+    "options": [
+      {
+        "label": "A",
+        "text": "PERT (Program Evaluation and Review Technique)"
+      },
+      {
+        "label": "B",
+        "text": "CPM (Critical Path Method)"
+      },
+      {
+        "label": "C",
+        "text": "EVM (Earned Value Management)"
+      },
+      {
+        "label": "D",
+        "text": "GERT (Graphical Evaluation and Review Technique)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 88,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-149",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In software reliability engineering, what does 'Availability' represent mathematically?",
+    "options": [
+      {
+        "label": "A",
+        "text": "MTTF / (MTTF + MTTR)"
+      },
+      {
+        "label": "B",
+        "text": "MTTR / MTTF"
+      },
+      {
+        "label": "C",
+        "text": "MTBF / MTTR"
+      },
+      {
+        "label": "D",
+        "text": "(MTBF - MTTR) / MTBF"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 89,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-150",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What software architectural pattern decouples components that produce data from components that consume data using central message channels?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Publish-Subscribe (Pub/Sub) Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Peer-to-Peer Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Blackboard Pattern"
+      },
+      {
+        "label": "D",
+        "text": "Layered Pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 90,
+    "sourceSection": "Group B",
+    "co": "CO4",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-151",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which software quality framework standard is titled \"Software Engineering — Software Product Quality Requirements and Evaluation (SQuaRE)\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ISO/IEC 25010"
+      },
+      {
+        "label": "B",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "C",
+        "text": "IEEE 829"
+      },
+      {
+        "label": "D",
+        "text": "ISO/IEC 12207"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 91,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-152",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In object-oriented analysis, what relationship specifies that an instance of one class uses services provided by another class?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Association"
+      },
+      {
+        "label": "B",
+        "text": "Generalization"
+      },
+      {
+        "label": "C",
+        "text": "Realization"
+      },
+      {
+        "label": "D",
+        "text": "Dependency"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "",
+    "sourceNumber": 92,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-153",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What type of white-box testing technique ensures every unique path through a software module is executed at least once?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Path Testing"
+      },
+      {
+        "label": "B",
+        "text": "Loop Testing"
+      },
+      {
+        "label": "C",
+        "text": "Branch Testing"
+      },
+      {
+        "label": "D",
+        "text": "Condition Testing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 93,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-154",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In CMMI model, which key process area belongs to Maturity Level 2 (Managed)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Requirements Management"
+      },
+      {
+        "label": "B",
+        "text": "Organizational Process Definition"
+      },
+      {
+        "label": "C",
+        "text": "Quantitative Project Management"
+      },
+      {
+        "label": "D",
+        "text": "Causal Analysis and Resolution"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 94,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-155",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which architectural style processes continuous data streams through sequential processing steps?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Pipe and Filter Architecture"
+      },
+      {
+        "label": "B",
+        "text": "Object-Oriented Architecture"
+      },
+      {
+        "label": "C",
+        "text": "Event-Driven Architecture"
+      },
+      {
+        "label": "D",
+        "text": "Layered Architecture"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 95,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-156",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In software configuration management, what is a 'Baseline'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Formally reviewed and agreed-upon specification or product that serves as basis for further development"
+      },
+      {
+        "label": "B",
+        "text": "Initial draft of project charter"
+      },
+      {
+        "label": "C",
+        "text": "Lowest performance threshold acceptable to users"
+      },
+      {
+        "label": "D",
+        "text": "Minimum salary level for team members"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 96,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-157",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "What estimation model uses historical data and mathematical algorithms based on system parameters like LOC or Function Points?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Parametric Estimating Model"
+      },
+      {
+        "label": "B",
+        "text": "Delphi Method"
+      },
+      {
+        "label": "C",
+        "text": "Expert Judgment"
+      },
+      {
+        "label": "D",
+        "text": "Top-Down Estimating"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 97,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-158",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In software testing, what is the main purpose of 'Sanity Testing'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quick subset of regression testing to verify if minor code changes work properly before deep testing"
+      },
+      {
+        "label": "B",
+        "text": "Complete structural analysis of database schemas"
+      },
+      {
+        "label": "C",
+        "text": "Testing software under extreme load for 24 hours"
+      },
+      {
+        "label": "D",
+        "text": "Verification of user documentation and manuals"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 98,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-159",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "Which behavioral design pattern encapsulates a request as an object, allowing parameterization of clients with queue requests?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Command Pattern"
+      },
+      {
+        "label": "B",
+        "text": "Iterator Pattern"
+      },
+      {
+        "label": "C",
+        "text": "Memento Pattern"
+      },
+      {
+        "label": "D",
+        "text": "Template Method Pattern"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 99,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  },
+  {
+    "id": "sepm-w26-160",
+    "subject": "Software Engineering and Project Management",
+    "category": "end-sem",
+    "marks": 2,
+    "question": "In DevOps continuous integration/continuous deployment (CI/CD) pipelines, what is 'Canary Deployment'?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rolling out software changes to a small subset of users first to test stability before full release"
+      },
+      {
+        "label": "B",
+        "text": "Deploying software directly to backup hardware servers"
+      },
+      {
+        "label": "C",
+        "text": "Running automated unit tests inside Docker containers"
+      },
+      {
+        "label": "D",
+        "text": "Instant rollback of all database updates upon error"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "",
+    "sourceNumber": 100,
+    "sourceSection": "Group B",
+    "co": "CO5",
+    "sourceDocument": "V_SEPM_ESE_QB_W26.pdf"
+  }
+]

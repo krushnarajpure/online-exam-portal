@@ -1,0 +1,72 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return signedIn() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return signedIn() && request.auth.token.admin == true;
+    }
+
+    match /questions/{questionId} {
+      allow read: if signedIn();
+      allow create, update, delete: if isAdmin();
+    }
+
+    match /users/{userId} {
+      allow read, create, update: if isOwner(userId);
+      allow delete: if false;
+
+      match /attempts/{attemptId} {
+        allow read: if isOwner(userId);
+        allow create: if isOwner(userId)
+          && request.resource.data.keys().hasAll([
+            'uid', 'section', 'subject', 'mode', 'score', 'maxScore',
+            'questionCount', 'attemptedCount', 'gradedAttemptedCount',
+            'correctCount', 'accuracy', 'questionIds', 'completedAt', 'timestamp'
+          ])
+          && request.resource.data.keys().hasOnly([
+            'uid', 'section', 'subject', 'mode', 'score', 'maxScore',
+            'questionCount', 'attemptedCount', 'gradedAttemptedCount',
+            'correctCount', 'accuracy', 'questionIds', 'completedAt', 'timestamp'
+          ])
+          && request.resource.data.uid == userId
+          && request.resource.data.section in ['subjects', 'end-sem', 'practicals']
+          && request.resource.data.mode in ['practice', 'exam']
+          && request.resource.data.subject is string
+          && request.resource.data.questionCount is int
+          && request.resource.data.questionCount > 0
+          && request.resource.data.questionCount <= 1000
+          && request.resource.data.attemptedCount is int
+          && request.resource.data.attemptedCount >= 0
+          && request.resource.data.attemptedCount <= request.resource.data.questionCount
+          && request.resource.data.gradedAttemptedCount is int
+          && request.resource.data.gradedAttemptedCount >= 0
+          && request.resource.data.gradedAttemptedCount <= request.resource.data.attemptedCount
+          && request.resource.data.correctCount is int
+          && request.resource.data.correctCount >= 0
+          && request.resource.data.correctCount <= request.resource.data.gradedAttemptedCount
+          && request.resource.data.score is number
+          && request.resource.data.score >= 0
+          && request.resource.data.maxScore is number
+          && request.resource.data.maxScore >= request.resource.data.score
+          && request.resource.data.accuracy is int
+          && request.resource.data.accuracy >= 0
+          && request.resource.data.accuracy <= 100
+          && request.resource.data.questionIds is list
+          && request.resource.data.questionIds.size() == request.resource.data.questionCount
+          && request.resource.data.timestamp == request.time;
+        allow update, delete: if false;
+      }
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/dist/
+/.env
+server/.env
+client/.env.local
+server/*service-account*.json
+server/data/*.json
+!server/data/mcqs.json
+npm-debug.log*
