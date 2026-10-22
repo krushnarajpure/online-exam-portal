@@ -1,4 +1,4 @@
-const { applicationDefault, getApps, initializeApp } = require('firebase-admin/app')
+const { applicationDefault, cert, getApps, initializeApp } = require('firebase-admin/app')
 const { getAuth } = require('firebase-admin/auth')
 const { getFirestore } = require('firebase-admin/firestore')
 
@@ -7,8 +7,9 @@ let firebaseApp
 function getAdminApp() {
   if (!process.env.FIREBASE_PROJECT_ID && !process.env.GOOGLE_CLOUD_PROJECT) return null
   if (!firebaseApp) {
+    const serviceAccount = process.env.FIREBASE_SERVICE_ACCOUNT_JSON
     firebaseApp = getApps()[0] || initializeApp({
-      credential: applicationDefault(),
+      credential: serviceAccount ? cert(JSON.parse(serviceAccount)) : applicationDefault(),
       projectId: process.env.FIREBASE_PROJECT_ID || process.env.GOOGLE_CLOUD_PROJECT,
     })
   }
@@ -41,6 +42,23 @@ async function writeQuestionsToFirestore(questions) {
   return true
 }
 
+async function readTranslationsFromFirestore(ids, language) {
+  const app = getAdminApp()
+  if (!app) return {}
+  const firestore = getFirestore(app)
+  const translations = {}
+  for (let offset = 0; offset < ids.length; offset += 450) {
+    const references = ids.slice(offset, offset + 450)
+      .map((id) => firestore.collection('questions').doc(id))
+    const documents = await firestore.getAll(...references)
+    for (const document of documents) {
+      const translation = document.data()?.translations?.[language]
+      if (translation) translations[document.id] = translation
+    }
+  }
+  return translations
+}
+
 async function writeTranslationsToFirestore(translations, language) {
   const app = getAdminApp()
   if (!app) return false
@@ -58,4 +76,10 @@ async function writeTranslationsToFirestore(translations, language) {
   return true
 }
 
-module.exports = { getAdminApp, verifyAdminToken, writeQuestionsToFirestore, writeTranslationsToFirestore }
+module.exports = {
+  getAdminApp,
+  verifyAdminToken,
+  readTranslationsFromFirestore,
+  writeQuestionsToFirestore,
+  writeTranslationsToFirestore,
+}

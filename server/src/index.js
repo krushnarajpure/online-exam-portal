@@ -8,7 +8,12 @@ const cors = require('cors')
 const multer = require('multer')
 const pdfParse = require('pdf-parse')
 const { parseMcqs } = require('./parser')
-const { verifyAdminToken, writeQuestionsToFirestore, writeTranslationsToFirestore } = require('./firebase-admin')
+const {
+  readTranslationsFromFirestore,
+  verifyAdminToken,
+  writeQuestionsToFirestore,
+  writeTranslationsToFirestore,
+} = require('./firebase-admin')
 
 const app = express()
 const port = Number(process.env.PORT) || 4000
@@ -27,7 +32,7 @@ const upload = multer({
   },
 })
 
-fs.mkdirSync(dataDirectory, { recursive: true })
+if (!process.env.VERCEL) fs.mkdirSync(dataDirectory, { recursive: true })
 
 function readJson(file, fallback) {
   try {
@@ -103,7 +108,7 @@ app.post('/api/import', requireAdmin, (request, response, next) => {
         createdAt: timestamp,
       }))
       const cloudPersisted = await writeQuestionsToFirestore(imported)
-      writeJson(questionsFile, [...existing, ...imported])
+      if (!process.env.VERCEL) writeJson(questionsFile, [...existing, ...imported])
       response.status(201).json({ imported: imported.length, cloudPersisted, questions: imported })
     } catch (error) {
       next(error)
@@ -127,6 +132,7 @@ app.post('/api/translations', async (request, response, next) => {
       || (language === 'mr' ? Object.fromEntries(
         Object.entries(translations).filter(([, value]) => value && typeof value.question === 'string'),
       ) : {})
+    Object.assign(languageCache, await readTranslationsFromFirestore(ids, language))
     const missing = questions.filter((item) => !hasCompleteTranslation(languageCache[item.id], item))
     if (missing.length && !process.env.GEMINI_API_KEY) {
       const languageName = language === 'hi' ? 'Hindi' : 'Marathi'
@@ -143,7 +149,7 @@ app.post('/api/translations', async (request, response, next) => {
       }
       for (const item of batch) languageCache[item.id] = translated[item.id]
       translations[language] = languageCache
-      writeJson(translationsFile, translations)
+      if (!process.env.VERCEL) writeJson(translationsFile, translations)
     }
     const result = {}
     for (const item of questions) result[item.id] = languageCache[item.id]
@@ -299,6 +305,10 @@ app.use((error, _request, response, _next) => {
   response.status(status).json({ error: message })
 })
 
-app.listen(port, () => {
-  console.log(`MCQ backend listening on http://localhost:${port}`)
-})
+if (require.main === module) {
+  app.listen(port, () => {
+    console.log(`MCQ backend listening on http://localhost:${port}`)
+  })
+}
+
+module.exports = app
